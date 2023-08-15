@@ -1,10 +1,10 @@
 # ColorsPallete
 
-## Emirhan İpek
+**Emirhan İpek**
 
-## https://github.com/emirhanipek
+**https://github.com/emirhanipek**
 
-## emirhan_ipek04@hotmail.com
+**emirhan_ipek04@hotmail.com**
 
 
 <img width="1440" alt="Ekran Resmi 2023-01-02 13 32 54" src="https://user-images.githubusercontent.com/103415904/210220102-b7966c72-9073-4790-b586-42d5e443961d.png">
