@@ -1,16 +1,20 @@
 # ColorsPallete
 
-**Emirhan İpek**
+![Adsız tasarım (3)](https://github.com/user-attachments/assets/342f15dd-87aa-45aa-a52c-8ce04e53b757)
 
-**https://github.com/emirhanipek**
+# Renk Paleti (Color Palette) Web Sitesi
 
-**emirhan_ipek04@hotmail.com**
+Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş, basit ve kullanışlı bir renk paleti web sitesidir. Kullanıcılar, site üzerinde farklı renkleri görüntüleyebilir, istedikleri rengi seçip üzerine tıkladıklarında o rengin HEX kodunu kopyalayabilirler.
 
+## Özellikler
 
-<img width="1440" alt="Ekran Resmi 2023-01-02 13 32 54" src="https://user-images.githubusercontent.com/103415904/210220102-b7966c72-9073-4790-b586-42d5e443961d.png">
+- **Renk Paleti**: Çeşitli renkler arasından seçim yapma imkanı.
+- **Renk Kodu Kopyalama**: Rengin üzerine tıklanıldığında HEX kodu otomatik olarak kopyalanır.
+- **Basit Kullanım**: Minimalist ve kullanıcı dostu arayüz.
+- **Duyarlı Tasarım**: Her boyutta cihazda sorunsuz çalışma.
 
+## Kullanılan Teknolojiler
 
-<img width="496" alt="Ekran Resmi 2023-01-02 13 33 08" src="https://user-images.githubusercontent.com/103415904/210220110-5938dedc-c6d9-4dbb-a7d1-c2a5ff708e1f.png">
-
-
-<img width="1129" alt="Ekran Resmi 2023-01-02 13 33 29" src="https://user-images.githubusercontent.com/103415904/210220117-7cf1af11-2221-4ed9-9f51-05ac14592607.png">
+- HTML5
+- CSS3
+- JavaScript
